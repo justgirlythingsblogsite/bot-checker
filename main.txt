@@ -1,0 +1,2 @@
+document.getElementsByClassName(`text-black w-full resize-none bg-transparent focus-within:outline-none`)[0].value = "I'm not a bot " + btoa(Math.floor(Math.random() * 10))
+document.getElementsByClassName("relative ml-2 my-auto top-0 bottom-0")[0].children[0].click()
